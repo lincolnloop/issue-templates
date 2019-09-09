@@ -29,8 +29,11 @@ URL:
 
 <!-- ⤵️ to be filled out by developer -->
 
+⏱ Estimated Level of Effort (LOE): _unestimated_
+
 ### Developer Checklist
 
+* [ ] Estimated LOE
 * [ ] Tests written (if not include explanation)
 * [ ] CI tests pass
 * [ ] Deployed/tested in non-production environment
