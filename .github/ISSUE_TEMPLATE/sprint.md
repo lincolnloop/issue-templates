@@ -11,32 +11,32 @@ about: Start a new sprint
 
 ## Pre-Sprint Checklist
 
-* [ ] **Board Groomed**  
+* [ ] **Board groomed**  
   Does the board accurately reflect current status?
 * [ ] **Backlog populated**  
   Is the backlog accurate for the current sprint?
 * [ ] **Issues reviewed**  
-  * [ ] **Team Clarity**  
+  * [ ] **Team clarity**  
     Does everyone understand the work to be completed and level-of-effort involved?
-  * [ ] **Ready for Development**  
+  * [ ] **Ready for development**  
     Do all issues have clear specs? Are any blockers removed?
 * [ ] **Attainable**  
   Is the amount of work in the backlog is adequate for the sprint timeline? Do all the developers agree?
 
 ## Mid-Sprint Checklist
 
-* [ ] **Board Groomed**  
+* [ ] **Board groomed**  
   Does the board accurately reflect current status?
-* [ ] **Progress Report**  
+* [ ] **Progress report**  
   Are we on progress to complete the backlog? If not, why? Check in with all developers and leave a comment.
-* [ ] **Blockers Flagged**  
+* [ ] **Blockers flagged**  
   Are all blockers are clearly labelled and has the responsible party notified? Is a follow-up necessary?
 
 ## Post-Sprint Checklist
 
-* [ ] **Board Groomed**  
+* [ ] **Board groomed**  
   Does the board accurately reflect current status?
-* [ ] **Progress Report**  
+* [ ] **Progress report**  
   Was the initial backlog for the sprint completed? If not, why? Add a comment.
 * [ ] **Demo**  
   Have the stakeholders seen all the progress and signed off on the items completed?
