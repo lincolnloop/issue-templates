@@ -15,13 +15,13 @@ about: Start a new sprint
   Does the board accurately reflect current status?
 * [ ] **Backlog populated**  
   Is the backlog accurate for the current sprint?
-* [ ] **Issues reviewed**  
+* [ ] **Internal Sprint Kick-off**  
   * [ ] **Team clarity**  
     Does everyone understand the work to be completed and level-of-effort involved?
   * [ ] **Ready for development**  
     Do all issues have clear specs? Are any blockers removed?
-* [ ] **Attainable**  
-  Is the amount of work in the backlog is adequate for the sprint timeline? Do all the developers agree?
+  * [ ] **Attainable**  
+    Is the amount of work in the backlog is adequate for the sprint timeline? Do all the developers agree?
 
 ## Mid-Sprint Checklist
 
