@@ -36,8 +36,10 @@ about: Start a new sprint
 
 * [ ] **Board groomed**  
   Does the board accurately reflect current status?
-* [ ] **Progress report**  
-  Was the initial backlog for the sprint completed? If not, why? Add a comment.
-* [ ] **Demo**  
-  Have the stakeholders seen all the progress and signed off on the items completed?
+* [ ] **Client Sprint Review**  
+  Does the board accurately reflect current status?
+  * [ ] **Progress report**  
+    Was the initial backlog for the sprint completed? If not, why? Add a comment.
+  * [ ] **Demo**  
+    Have the stakeholders seen all the progress and signed off on the items completed?
 
