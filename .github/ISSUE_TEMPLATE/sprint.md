@@ -30,7 +30,7 @@ about: Start a new sprint
 * [ ] **Progress report**  
   Are we on progress to complete the backlog? If not, why? Check in with all developers and leave a comment.
 * [ ] **Blockers flagged**  
-  Are all blockers are clearly labelled and has the responsible party notified? Is a follow-up necessary?
+  Are all blockers clearly labelled and has the responsible party notified? Is a follow-up necessary?
 
 ## Post-Sprint Checklist
 
